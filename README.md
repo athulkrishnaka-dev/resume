@@ -6,7 +6,7 @@ Aspiring Software Developer | Python | Web Development
  Kochi,Kerala,India
  athulkrishnaka90@gmail.com
  https://github.com/ajr007-cuteboi
- @linkedIn
+https://www.linkedin.com/in/athulkrishna-k-a-81370642a
 
  ## About Me
  I am a motivated developer interested in building practical software solutions and learning new technologies.
